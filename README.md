@@ -20,6 +20,7 @@
 </ul>
 <ul>
 <li>  
+<img  align="left" alt="SQL" src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=mySQL&logoColor=white" />
 <img  align="left" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 <img  align="left" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img  align="left" alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
