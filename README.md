@@ -21,8 +21,6 @@
 <img  align="left" alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img  align="left" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="C" src="https://img.shields.io/badge/C-61d959?style=for-the-badge&logo=C&logoColor=white" />
-
-<br/>
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan54&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
