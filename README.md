@@ -37,7 +37,7 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan54&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
 
-[linkedin]: https://www.linkedin.com/in/hariharan-r-6596bb228/
+[linkedin]: https://www.linkedin.com/in/hariharan-r5
 
 <!---
 hariharan54/hariharan54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
