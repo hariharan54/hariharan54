@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Hariharan
 - 👀 I'm currently looking out for internship opportunities to work and upskill myself.
 - 👀 Getting myself equipped and updated with the latest technologies around.
-- 🌱 Pursuing my B.E in CSE at Ramaiah Institute of Technology.
-- 🌱 Was a Web Development Intern at Infovue Solutions.
-- 💬 You can reach me at r.hariharan54@gmail.com
+- 🌱 Pursuing my B.E(4th Year)CSE at Ramaiah Institute of Technology.
+- 🌱 Ex-Research Intern at Samsung Research Institute(Samsung Prism).
+- 🌱 Ex-Web Development Intern at Infovue Solutions.
 
 ### Connect with me:
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
