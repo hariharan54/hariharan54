@@ -29,6 +29,7 @@
 <ul>
 <li>
 <img  align="left" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img  align="left" alt="PYTHON" src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="C" src="https://img.shields.io/badge/C-61d959?style=for-the-badge&logo=C&logoColor=white" />
 </li>
 </ul>
