@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Hariharan
-- 👀 I'm currently looking out for internship opportunities to work and upskill myself.
-- 👀 Getting myself equipped and updated with the latest technologies around.
-- 🌱 Pursuing my B.E(4th Year)CSE at Ramaiah Institute of Technology.
-- 🌱 Ex-Research Intern at Samsung Research Institute(Samsung Prism).
-- 🌱 Ex-Web Development Intern at Infovue Solutions.
+👋 Hi, I’m Hariharan
 
 ### Connect with me:
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,10 +8,8 @@
 ### Languages, Tools and Technologies:
 <ul>
 <li><img  align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img  align="left" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img  align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img  align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></li>
 </ul>
 <ul>
 <li>  
